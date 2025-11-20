@@ -49,14 +49,13 @@ Este sistema administra:
 
 ## Evidencias 
 
-!(Evidencia 1)[images/image.png]
-!(Evidencia 2)[images/image1.png]
-!(Evidencia 3)[images/image2.png]
-!(Evidencia 5)[images/image3.png]
-!(Evidencia 5)[images/image4.png]
-!(Evidencia 6)[images/image5.png]
+![Evidencia 1](images/image.png)
+![Evidencia 2](images/image1.png)
+![Evidencia 3](images/image2.png)
+![Evidencia 4](images/image3.png)
+![Evidencia 5](images/image4.png)
 
-!(Diagrama_ER_Hospital)[Diagrama_ER_Hospital.png]
+![Diagrama_ER_Hospital](Diagrama_ER_Hospital.png)
 ---
 
 ## 🛠️ Tecnologías utilizadas
